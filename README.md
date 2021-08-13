@@ -1,0 +1,1 @@
+# Optimizing-partitioning-for-Apache-Spark-database-loads-via-JDBC-for-performance
